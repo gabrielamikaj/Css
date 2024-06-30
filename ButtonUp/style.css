@@ -1,0 +1,33 @@
+.search, .add, .account {
+    font-weight: bold;
+    height: 40px;
+    margin: 20px;
+    display: block;
+    border:solid;
+}
+
+
+.search {
+    width: 160px;
+    border-radius: 40px;
+    border-style: solid;
+    border-color: rgb(17, 179, 157);
+    color: rgb(17, 179, 157);
+}
+
+
+.add {
+    border-radius: 120px;
+    width: 35px;
+    color: white;
+    background-color:rgb(17, 179, 157);
+    border-color: rgb(17, 179, 157);
+}
+
+
+.account {
+    width: 180px;
+    border:groove black;
+    background-color:rgb(29, 46, 194);
+    color:white;
+}

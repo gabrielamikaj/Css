@@ -1,0 +1,46 @@
+.full {
+  display: flex;
+  align-items:flex-start;
+  justify-content: center;
+}
+
+.container {
+  border: groove;
+  border-color: rgb(243, 233, 233);
+  width: 40%;
+  margin: 50px;
+}
+
+
+.header {
+  background-color: rgb(51, 174, 235);
+}
+
+.user {
+  width: 70px;
+  height: 70px;
+  padding-top: 20px;
+
+}
+p{
+  font-weight: bold;
+  font-size: medium;
+}
+
+.location {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.images {
+  width: 15px;
+  height: 20px;
+  padding: 10px;
+}
+
+.footer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
